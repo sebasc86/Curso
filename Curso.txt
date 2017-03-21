@@ -1,0 +1,125 @@
+jesus@digitalhouse.com
+gonzalo@digitalhouse.com
+eva@evaferreira.com.ar css html
+Paquetes instalar de atom
+
+emmet
+file-icons
+highlight-select
+
+
+alumnos-digitalhouse
+compus.digitalhouse.com
+Mail de registracion
+pass: Digitalhouse860
+
+w3c
+
+css reference decoders
+
+147colors sitio de colores en ingles para la web
+
+bajar emmet atom
+
+puede ser mas de una fuente en font family
+
+no usar @import
+
+atributo id para enlazar secciones
+id no puede empezar por numero
+h2 id="seccion1"
+a href enlazamos con numeral # para enlazar el id si no esta va a pensar que es una carpeta
+
+un enlace con numeral # va para arriba de la pagina directamente
+
+caniuse.com este sitio para saber la compatibilidad de html javascript css.
+formatos compatibles mp3 etc}
+
+video js.com el reproductor se ve igual en todos los navegadores.
+
+Hexagecimal
+rrggbb
+#ffffff
+#ff rojos ff verdes ff azules
+rgb(255,0,0);
+
+con a es alfa trabajar con transparencias de 0 a 1. ej: 0,6
+rgba(255,0,255,0.6)
+lea verau the chrome zone
+backgroud-image: url("logo.jpg");
+
+p.coloreado son todos los <p que tengan coloreado>
+en cambio p .coloreado es como que tiene que entrar a p y dentro de los p tener otro campo que tenga clase coloreado
+
+placeholder para poner dentro de un campo el valor que quiere que agregue el usuario
+
+http://evaferreira.com.ar/digital/
+
+emuladores
+
+pagos:
+cross browser testing
+browser stack
+
+gratuitos:
+http://reponsiv.eu/
+
+
+Emulador Terminal
+firefox: crtl shift M
+
+chrome: crtl shift m con f12 abierto
+
+>Unidades de medida:
+usar para height siempre vh en vez de % o px. Height se lleva mal con % o px;
+
+>media queries
+
+autoprefixer;
+
+@evaferreira92 twitter
+
+para aprender flexbox
+flexbox froggy
+
+para leer el finde
+Flex
+Flexbox froggy.com
+grids
+learn layout.com
+
+
+
+reset css > resetea todo es una hoja de estilo que se baja tiene que ir antes de mi hoja de estilo
+
+normalize.css > no resetea todo es menos brusco, mas recomendable normalize en general pero depende del proyecto
+
+https://unicode-table.com/es/
+
+para leer
+http://es.learnlayout.com/
+
+
+BEM Block element Medifier
+para leer
+css guide lines
+cssguidelin.es
+
+git clone url
+
+cadavez
+git status
+
+git add archivo
+
+git commit -am "mesaje"
+
+git push
+
+para actualizar git pull
+
+isabel@digitalhouse.com
+comunidad digital house face y likedin
+
+gitkraken
+xampp
